@@ -1,4 +1,4 @@
-fab4teachersWebsite
+Fab4Teachers Website
 ===================
 
-fab4teachers Website
+Die Website des Projekts Fab4Teachers, in Zusammenarbeit mit der Didaktik der Informatik.
